@@ -1,0 +1,2 @@
+.content{margin:auto;padding:20px;width:600px;}
+.content:after,.buttons::after{clear:both;content:"";display:table;}
