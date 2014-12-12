@@ -38,11 +38,11 @@ var Main = (function (my) {
 var movies1 = {
   'x09cp3l3vh87': {
     name: 'Fast and Furious',
-    image: 'http://ecx.images-amazon.com/images/I/61bsCmq2tTL._SL75_.jpg',
+    image: 'http://ecx.images-amazon.com/images/I/61bsCmq2tTL._SL75_.jpg' ,
   },
   'x09cp3l3vh872': {
     name: 'Fast and Furious',
-    image: 'http://ecx.images-amazon.com/images/I/61bsCmq2tTL._SL75_.jpg',
+    image: 'http://cdn.appato.com/deluxe-digital-studios/fast-furious-virtual-car-garage-2-0/icon/256',
   },
   'x09cp3l3vh873': {
     name: 'Fast and Furious',
